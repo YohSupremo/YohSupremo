@@ -21,28 +21,7 @@ I'm a **BSIT student** who loves building things — from web systems to 3D plan
 
 ---
 
-## 🚀 Projects
 
-### 🎵 Tunify
-> A full-stack musical instrument e-commerce system
-
-- Built with **Node.js / Express** backend
-- **MariaDB** database (11-table schema, normalized to 3NF)
-- jQuery frontend with CRUD operations
-- Features: product listings, cart, order management
-
----
-
-### 🪐 Blender Solar System
-> Procedural 3D solar system with cinematic animation
-
-- Realistic planet materials — Neptune, Pluto, Uranus, Earth, Mars, Jupiter
-- Per-planet **axial tilt + spin** via Python scripts
-- Moon systems: Earth-Moon, Mars moons, Jupiter moons
-- Multi-phase **cinematic camera tour** (`Cinematic_Tour_v4.py`)
-- Real astronomical values throughout
-
----
 
 ## ⚙️ Tech Stack
 
