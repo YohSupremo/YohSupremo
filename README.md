@@ -10,7 +10,7 @@
 
 ---
 
-## About Me
+## ![about](https://img.shields.io/badge/About_Me-0d1117?style=flat-square&logo=aboutdotme&logoColor=A78BFA) About Me
 
 I'm a **BSIT student** who loves building things — from web systems to 3D planets in Blender. I enjoy clean code, creative projects, and figuring out how things work under the hood.
 
@@ -21,7 +21,7 @@ I'm a **BSIT student** who loves building things — from web systems to 3D plan
 
 ---
 
-## Tech Stack
+## ![techstack](https://img.shields.io/badge/Tech_Stack-0d1117?style=flat-square&logo=stackoverfloW&logoColor=A78BFA) Tech Stack
 
 <div align="center">
 
@@ -42,7 +42,7 @@ I'm a **BSIT student** who loves building things — from web systems to 3D plan
 
 ---
 
-## GitHub Stats
+## ![stats](https://img.shields.io/badge/GitHub_Stats-0d1117?style=flat-square&logo=github&logoColor=A78BFA) GitHub Stats
 
 <div align="center">
 
@@ -59,7 +59,7 @@ I'm a **BSIT student** who loves building things — from web systems to 3D plan
 
 ---
 
-## Commit History — 3D View
+## ![3d](https://img.shields.io/badge/Commit_History-0d1117?style=flat-square&logo=git&logoColor=A78BFA) Commit History — 3D View
 
 <!--
   SETUP: Create .github/workflows/3d-contrib.yml
@@ -99,7 +99,7 @@ jobs:
 
 ---
 
-## Contribution Activity
+## ![activity](https://img.shields.io/badge/Contribution_Activity-0d1117?style=flat-square&logo=githubactions&logoColor=A78BFA) Contribution Activity
 
 <!--
   SETUP: Create .github/workflows/pacman.yml
