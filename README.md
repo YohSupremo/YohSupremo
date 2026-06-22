@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- CAPSULE RENDER WAVE HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Kelly&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=BSIT%20Student%20%7C%20Web%20Dev%20%7C%20Blender%20Artist&descAlignY=58&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Asahi&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=BSIT%20Student%20%7C%20Web%20Dev%20%7C%20Blender%20Artist&descAlignY=58&descSize=18&animation=fadeIn)
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Kelly+👋;BSIT+Student+%7C+Web+Dev;Building+Tunify+🎵+%26+Solar+Systems+🪐;Node.js+%7C+MariaDB+%7C+Blender;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Asahi+👋;BSIT+Student+%7C+Web+Dev;Building+Tunify+🎵+%26+Solar+Systems+🪐;Node.js+%7C+MariaDB+%7C+Blender;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 </div>
 
@@ -44,22 +44,22 @@ I'm a **BSIT student** who loves building things — from web systems to 3D plan
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=6FD672)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MariaDB](https://img.shields.io/badge/MariaDB-0d1117?style=for-the-badge&logo=mariadb&logoColor=C0765A)
+![jQuery](https://img.shields.io/badge/jQuery-0d1117?style=for-the-badge&logo=jquery&logoColor=0769AD)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
+![Blender](https://img.shields.io/badge/Blender-0d1117?style=for-the-badge&logo=blender&logoColor=F5792A)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
@@ -82,7 +82,7 @@ I'm a **BSIT student** who loves building things — from web systems to 3D plan
 
 ---
 
-## 📈 3D Contribution Graph
+## 🗂️ Commit History — 3D View
 
 <!-- 
   SETUP REQUIRED:
@@ -129,7 +129,7 @@ jobs:
 
 ---
 
-## 🕹️ Pac-Man Contribution Graph
+## 📟 Contribution Activity
 
 <!-- 
   SETUP REQUIRED:
