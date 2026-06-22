@@ -4,26 +4,24 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Asahi&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=BSIT%20Student%20%7C%20Web%20Dev%20%7C%20Blender%20Artist&descAlignY=58&descSize=18&animation=fadeIn)
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Asahi+👋;BSIT+Student+%7C+Web+Dev;Building+Tunify+🎵+%26+Solar+Systems+🪐;Node.js+%7C+MariaDB+%7C+Blender;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Asahi;BSIT+Student+%7C+Web+Dev;Node.js+%7C+MariaDB+%7C+Blender;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a **BSIT student** who loves building things — from web systems to 3D planets in Blender. I enjoy clean code, creative projects, and figuring out how things work under the hood.
 
-- 🛒 Currently building **Tunify** — a musical instrument e-commerce system
-- 🪐 Working on a **3D Solar System** in Blender with procedural shaders & cinematic camera tours
-- 🔐 Deep into **Information Assurance & Security** coursework
-- 💬 Ask me about Node.js, MariaDB, or Blender scripting
+- Currently building **Tunify** — a musical instrument e-commerce system
+- Working on a **3D Solar System** in Blender with procedural shaders & cinematic camera tours
+- Deep into **Information Assurance & Security** coursework
+- Ask me about Node.js, MariaDB, or Blender scripting
 
 ---
 
-
-
-## ⚙️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -44,11 +42,11 @@ I'm a **BSIT student** who loves building things — from web systems to 3D plan
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YohSupremo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YohSupremo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohSupremo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
@@ -61,17 +59,10 @@ I'm a **BSIT student** who loves building things — from web systems to 3D plan
 
 ---
 
-## 🗂️ Commit History — 3D View
-
-<!-- 
-  SETUP REQUIRED:
-  1. Go to your username repo → Actions → New Workflow → Set up yourself
-  2. Create .github/workflows/3d-contrib.yml with the content below
-  3. After the workflow runs, uncomment the img tag below and replace YOUR_USERNAME
--->
+## Commit History — 3D View
 
 <!--
-Workflow file content (.github/workflows/3d-contrib.yml):
+  SETUP: Create .github/workflows/3d-contrib.yml
 
 name: GitHub-Profile-3D-Contrib
 on:
@@ -108,11 +99,10 @@ jobs:
 
 ---
 
-## 📟 Contribution Activity
+## Contribution Activity
 
-<!-- 
-  SETUP REQUIRED:
-  Create .github/workflows/pacman.yml with:
+<!--
+  SETUP: Create .github/workflows/pacman.yml
 
 name: Generate Pac-Man
 on:
