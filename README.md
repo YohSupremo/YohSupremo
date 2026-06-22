@@ -1,16 +1,179 @@
-## Hi there 👋
+<div align="center">
+
+<!-- CAPSULE RENDER WAVE HEADER -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Kelly&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=BSIT%20Student%20%7C%20Web%20Dev%20%7C%20Blender%20Artist&descAlignY=58&descSize=18&animation=fadeIn)
+
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Kelly+👋;BSIT+Student+%7C+Web+Dev;Building+Tunify+🎵+%26+Solar+Systems+🪐;Node.js+%7C+MariaDB+%7C+Blender;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a **BSIT student** who loves building things — from web systems to 3D planets in Blender. I enjoy clean code, creative projects, and figuring out how things work under the hood.
+
+- 🛒 Currently building **Tunify** — a musical instrument e-commerce system
+- 🪐 Working on a **3D Solar System** in Blender with procedural shaders & cinematic camera tours
+- 🔐 Deep into **Information Assurance & Security** coursework
+- 💬 Ask me about Node.js, MariaDB, or Blender scripting
+
+---
+
+## 🚀 Projects
+
+### 🎵 Tunify
+> A full-stack musical instrument e-commerce system
+
+- Built with **Node.js / Express** backend
+- **MariaDB** database (11-table schema, normalized to 3NF)
+- jQuery frontend with CRUD operations
+- Features: product listings, cart, order management
+
+---
+
+### 🪐 Blender Solar System
+> Procedural 3D solar system with cinematic animation
+
+- Realistic planet materials — Neptune, Pluto, Uranus, Earth, Mars, Jupiter
+- Per-planet **axial tilt + spin** via Python scripts
+- Moon systems: Earth-Moon, Mars moons, Jupiter moons
+- Multi-phase **cinematic camera tour** (`Cinematic_Tour_v4.py`)
+- Real astronomical values throughout
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YohSupremo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohSupremo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YohSupremo&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 3D Contribution Graph
+
+<!-- 
+  SETUP REQUIRED:
+  1. Go to your username repo → Actions → New Workflow → Set up yourself
+  2. Create .github/workflows/3d-contrib.yml with the content below
+  3. After the workflow runs, uncomment the img tag below and replace YOUR_USERNAME
+-->
 
 <!--
-**YohSupremo/YohSupremo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Workflow file content (.github/workflows/3d-contrib.yml):
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+name: GitHub-Profile-3D-Contrib
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YohSupremo/YohSupremo/output/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YohSupremo/YohSupremo/output/profile-season-animate.svg" />
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/YohSupremo/YohSupremo/output/profile-night-rainbow.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🕹️ Pac-Man Contribution Graph
+
+<!-- 
+  SETUP REQUIRED:
+  Create .github/workflows/pacman.yml with:
+
+name: Generate Pac-Man
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: generate pacman SVG
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YohSupremo/YohSupremo/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YohSupremo/YohSupremo/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/YohSupremo/YohSupremo/output/pacman-contribution-graph.svg" />
+</picture>
+
+</div>
+
+---
+
+<!-- CAPSULE RENDER WAVE FOOTER -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn)
